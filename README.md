@@ -13,8 +13,6 @@ This homework project is a mock-up website that required modifying HTML, CSS and
 Explore the contents of this guide:
 
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
 - [Credits](#credits)
 - [License](#license)
 
