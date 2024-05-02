@@ -31,7 +31,7 @@ Thanks to my bootcamp instructors and my peers, we're in this together! Special 
 
 ## License
 
-MIT License
+MIT License 
 
 Copyright (c) 2024 James Ryan IV
 
