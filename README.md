@@ -4,8 +4,8 @@
 
 This homework project is a mock-up website that required modifying HTML, CSS and adding accessibility features to both. 
 
-- **Why Did I Make This?**: To learn and apply my knowledge about semantic HTML elements and CSS by modifying a website to make it accessible to both those who use screenviewers, but also to make the CSS code more accessible by adding comments about what each selector did.
-- **What's in It?**: The homework project includes use of semantic HTML elements and alt tags to describe pictures, modifying the style.CSS to be more concise and easy to understand with comments, as well as a few other things like adding a title.
+- **Why Did I Make This?**: To apply semantic HTML and apply my knowledge so far about CSS by modifying a website to make it accessible to those who use screenviewers that may be handicapped, and easy to understand in the CSS code.
+- **What's in It?**: The homework project included use of semantic HTML elements and alt tags to describe pictures, modifying the style.CSS to be more concise and easy to understand with comments, as well as a few other things like adding a title.
 - **What Did I Learn?**: Completing this first week homework project helped me understand more about accessibility, the importance of semantic HTML, and using selectors and classes in CSS better.
 
 ## Table of Contents
@@ -13,6 +13,8 @@ This homework project is a mock-up website that required modifying HTML, CSS and
 Explore the contents of this guide:
 
 - [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
 - [Credits](#credits)
 - [License](#license)
 
